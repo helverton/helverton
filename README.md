@@ -19,7 +19,7 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|--|--|
 
 **Infrastructure**
-<img title="Heroku" alt="Heroku" width="40px" src="https://logowik.com/content/uploads/images/microsoft-iis2928.jpg">|<img title="Vercel" alt="Vercel" width="40px" src="https://logowik.com/content/uploads/images/vercel1868.jpg">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
+<img title="Heroku" alt="Heroku" width="40px" src="https://logowik.com/content/uploads/images/microsoft-iis2928.jpg">|<img title="Vercel" alt="Vercel" width="40px" src="https://logowik.com/content/uploads/images/vercel1868.jpg">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">|<img title="AWS" alt="AWS" width="40px" src="https://signin.aws.amazon.com/v2/assets/_next/static/media/aws-logo@2x.7c50e6f9.png">
 |--|--|--|
 
 **Databases**
@@ -27,7 +27,7 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|
 
 **Tools**
-<img title="Visual Studio" alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="SQL Server" alt="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">|<img title="SAP" alt="SAP" width="40px" src="https://logowik.com/content/uploads/images/467_sap.jpg">|<img title="B1UP" alt="B1UP" width="40px" src="https://help.boyum-it.com/b1up.png">|<img title="git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">
+<img title="Visual Studio" alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="SQL Server" alt="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">|<img title="SAP" alt="SAP" width="40px" src="https://logowik.com/content/uploads/images/467_sap.jpg">|<img title="B1UP" alt="B1UP" width="40px" src="https://help.boyum-it.com/b1up.png">|<img title="git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">|<img title="github" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">|<img title="n8n" alt="n8n" width="40px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/n8n-color.png">
 |--|--|--|--|--|--|
 <br>
 
